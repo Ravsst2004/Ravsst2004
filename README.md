@@ -51,12 +51,6 @@
 
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Ravindra and I'm a Front End Web Developer</h2>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Ravsst2004/Ravsst2004/output/snake.svg" alt="Snake animation" />
 
 ###
